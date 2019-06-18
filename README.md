@@ -8,7 +8,7 @@ It also lets you test the HealthManager by sending a "http://host/?shutdown=true
 How to use
 ==========
 
-1. Clone this repo locally. In this example, I will be using a `/work` directory:
+1. Clone this repo locally. In the example shown below, we will be using a `/work` directory:
 
 ```
 cd /work
