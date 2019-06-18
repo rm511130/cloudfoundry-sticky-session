@@ -24,7 +24,7 @@ mvn clean package
 
 Note: you may see some warnings, but you can safely continue to step 3 if you don't see errors during the build process.
 
-3. Make sure you're targeting a valida PAS environment. For example:
+3. Make sure you're targeting a valid PAS environment. For example:
 
 ```
 cf t
