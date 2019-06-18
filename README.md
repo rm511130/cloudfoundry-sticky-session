@@ -202,13 +202,13 @@ Port: 8080
 
 
 9. Using the `kill this app instance` link will produce the following results:
-   a. The current App Instance will be killed
-   b. Your request will be handled by a different App Instance. Your App will stick to this new App Index #.
-   c. PAS will start a new App Instance to compensate for the one you killed.
+    - The current App Instance will be killed
+    - Your request will be handled by a different App Instance. Your App will stick to this new App Index #.
+    - PAS will start a new App Instance to compensate for the one you killed.
    
    
 10. To start over:
-   a. Use your browser's development tools to delete the JSESSION cookie
-   b. Pass `/?sticky=false` to your App
+    - Use your browser's development tools to delete the JSESSION cookie
+    - Pass `/?sticky=false` to your App
    
    
